@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm Zaved
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFEEE5&width=435&lines=Software+QA+Engineer;%F0%9F%A7%A0+Driven+by+logic;%E2%9A%A1Powered+by+curiosity;%F0%9F%8E%AFObsessed+with+quality.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF7E5E&width=435&lines=Software+QA+Engineer;%F0%9F%A7%A0+Driven+by+logic;%E2%9A%A1Powered+by+curiosity;%F0%9F%8E%AFObsessed+with+quality.)](https://git.io/typing-svg)
 ## 🚀 About Me
 
 - 🔭 Proficient in manual, automation and API testing  
