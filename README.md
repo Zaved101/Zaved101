@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm Zaved
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Software+QA+Engineer;%F0%9F%A7%A0+Driven+by+logic;%E2%9A%A1Powered+by+curiosity;Obsessed+with+quality.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFEEE5&width=435&lines=Software+QA+Engineer;%F0%9F%A7%A0+Driven+by+logic;%E2%9A%A1Powered+by+curiosity;%F0%9F%8E%AFObsessed+with+quality.)](https://git.io/typing-svg)
 ## 🚀 About Me
 
 - 🔭 Proficient in manual, automation and API testing  
@@ -13,7 +13,7 @@
 ## 🛠️ Tools & Technologies
 
 ### 🔧 Automation Tools  
-![Playwright](https://img.shields.io/badge/Playwright-2EC866?style=for-the-badge&logo=playwright&logoColor=white)  ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)  ![TestNG](https://img.shields.io/badge/TestNG-FF8C00?style=for-the-badge&logo=testng&logoColor=white)  ![Allure](https://img.shields.io/badge/Allure-3980F6?style=for-the-badge&logo=allure&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EC866?style=for-the-badge&logo=playwright&logoColor=white)  ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)  ![TestNG](https://img.shields.io/badge/TestNG-FF8C00?style=for-the-badge&logo=testng&logoColor=white)  ![Allure](https://img.shields.io/badge/Allure-3980F6?style=for-the-badge&logo=allure&logoColor=white)
 
 ### 🧪 API & Testing Tools  
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  ![JMeter](https://img.shields.io/badge/Apache%20JMeter-D22128?style=for-the-badge&logo=apachespark&logoColor=white)  ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
