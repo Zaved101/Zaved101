@@ -3,7 +3,7 @@
 ## 🚀 About Me
 
 - 🔭 Proficient in manual, automation and API testing  
-- 🧠 Skilled in manual testing—functional and non-functional for :android: Android & :ios: iOS
+- 🧠 Skilled in manual testing—functional and non-functional for Android & iOS
 - ⚡ Experienced in Game Testing, AR, VR Product Testing
 - 🛠️ Experienced with JMeter, Postman, and JIRA for robust test management 
 - 💡 Focused on delivering high product quality through thorough testing
