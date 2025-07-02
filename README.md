@@ -10,7 +10,7 @@
 - 🎯 Committed to ensuring reliable and seamless user experiences
 
 
-## 🛠️ Tools & Technologies
+## 🛠️ Tech Stack
 
 ### 🔧 Automation Tools  
 ![Playwright](https://img.shields.io/badge/Playwright-2EC866?style=for-the-badge&logo=playwright&logoColor=white)  ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)  ![TestNG](https://img.shields.io/badge/TestNG-FF8C00?style=for-the-badge&logo=testng&logoColor=white)  ![Allure](https://img.shields.io/badge/Allure-3980F6?style=for-the-badge&logo=allure&logoColor=white)
